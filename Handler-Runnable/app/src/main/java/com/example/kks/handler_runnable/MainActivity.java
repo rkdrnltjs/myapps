@@ -20,24 +20,29 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    class Thread1 extends Thread {
+    public class Thread1 extends Thread {
         @Override
         public void run() {
             for(int i=0; i<=100; i++){
-                try{
-                    Thread1.sleep(500);
-                }catch (Exception e){
+                println("호출했습니다" + i);
+                try {
+                    Thread.sleep(500);
+                } catch (Exception e){
                     e.printStackTrace();
                 }
-                final String data = String.valueOf(i);
-                handler.post(new Runnable() {
-                    @Override
-                    public void run() {
-                        textView.setText(String.valueOf(data));
-                    }
-                });
+
             }
         }
+
+    }
+
+    public void println(final String data){
+        handler.post(new Runnable() {
+            @Override
+            public void run() {
+                textView.setText(data);
+            }
+        });
     }
 
 
