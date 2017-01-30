@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">심플알리미</string>
+    <string name="action_settings">설정-미사용</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_preferences">환경설정</string>
+    <string name="title_activity_gps__test">GPS테스트</string>
+
+    <string name="transportation1">걷기</string>
+    <string name="transportation2">자전거</string>
+    <string name="transportation3">운전</string>
+	<string name="transportation_prompt">교통 모드 선택</string>
+	<string-array name="transportation_array">
+		<item>걷기</item>
+	    <item>자전거</item>
+	    <item>운전</item>  
+	</string-array>
+</resources>

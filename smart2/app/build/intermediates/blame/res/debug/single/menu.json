@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Git\\myapps\\smart2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\set_alarm.xml",
+        "source": "C:\\Git\\myapps\\smart2\\app\\src\\main\\res\\menu\\set_alarm.xml"
+    },
+    {
+        "merged": "C:\\Git\\myapps\\smart2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gps__test.xml",
+        "source": "C:\\Git\\myapps\\smart2\\app\\src\\main\\res\\menu\\gps__test.xml"
+    },
+    {
+        "merged": "C:\\Git\\myapps\\smart2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\preferences.xml",
+        "source": "C:\\Git\\myapps\\smart2\\app\\src\\main\\res\\menu\\preferences.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Git\\myapps\\smart2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button.png",
+        "source": "C:\\Git\\myapps\\smart2\\app\\src\\main\\res\\drawable-hdpi\\button.png"
+    },
+    {
+        "merged": "C:\\Git\\myapps\\smart2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "C:\\Git\\myapps\\smart2\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Git\\myapps\\smart2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Git\\myapps\\smart2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transportation_array">
+		<item>걷기</item>
+	    <item>자전거</item>
+	    <item>운전</item>  
+	</string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">설정-미사용</string>
+    <string name="app_name">심플알리미</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_gps__test">GPS테스트</string>
+    <string name="title_activity_preferences">환경설정</string>
+    <string name="transportation1">걷기</string>
+    <string name="transportation2">자전거</string>
+    <string name="transportation3">운전</string>
+    <string name="transportation_prompt">교통 모드 선택</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

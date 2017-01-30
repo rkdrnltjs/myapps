@@ -84,13 +84,11 @@ public class MainActivity extends AppCompatActivity {
                     Cursor cursor = db.query("member", columns, null, null, null, null, null);
 
                     StringBuffer stringBuffer = new StringBuffer();
-                    String abc = String.valueOf(cursor.moveToNext());
-                    Log.d("로그", abc);
                     while (cursor.moveToNext()) {
                         String name = cursor.getString(0);
                         String id = cursor.getString(1);
 
-                        stringBuffer.append(name).append(", " + id);
+                        stringBuffer.append(name+", "+id);
                         status.setText(stringBuffer.toString());
                     }
                 } catch (Exception e){

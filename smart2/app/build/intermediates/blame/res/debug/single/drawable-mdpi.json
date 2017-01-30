@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Git\\myapps\\smart2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo.png",
+        "source": "C:\\Git\\myapps\\smart2\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Git\\myapps\\smart2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Git\\myapps\\smart2\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

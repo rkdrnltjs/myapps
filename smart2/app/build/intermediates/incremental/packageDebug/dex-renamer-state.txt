@@ -1,0 +1,7 @@
+#Sat Jan 28 13:03:42 KST 2017
+base.0=C\:\\Git\\myapps\\smart2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_39aa5c4f2db8a96060b61c8c1d4b40be7e127842
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Git\\myapps\\smart2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8a0f03cb87b7cb7de80d69f41be7299be846bdba\\classes.dex
+base.1=C\:\\Git\\myapps\\smart2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8a0f03cb87b7cb7de80d69f41be7299be846bdba
+file.0=C\:\\Git\\myapps\\smart2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_39aa5c4f2db8a96060b61c8c1d4b40be7e127842\\classes.dex

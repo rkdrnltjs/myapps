@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <TextView
+        android:text="알람내용"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_detail"
+        android:layout_below="@+id/tv_clock" />
+
+    <TextView
+        android:text="시간"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_clock"
+        android:textSize="18sp" />
+
+    <TextView
+        android:text="날짜"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_date"
+        android:textSize="18sp"
+        android:layout_toRightOf="@+id/tv_clock" />
+
+    <Button
+        android:text="수정"
+        android:layout_width="wrap_content"
+        android:id="@+id/bt_update"
+        android:layout_toLeftOf="@+id/bt_delete"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:text="삭제"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_delete"
+        android:layout_alignParentRight="true" />
+</RelativeLayout>

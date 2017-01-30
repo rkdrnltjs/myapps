@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Git\\myapps\\smart2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_alarm.xml",
+        "source": "C:\\Git\\myapps\\smart2\\app\\src\\main\\res\\layout\\activity_set_alarm.xml"
+    },
+    {
+        "merged": "C:\\Git\\myapps\\smart2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_preferences.xml",
+        "source": "C:\\Git\\myapps\\smart2\\app\\src\\main\\res\\layout\\activity_preferences.xml"
+    },
+    {
+        "merged": "C:\\Git\\myapps\\smart2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gps__test.xml",
+        "source": "C:\\Git\\myapps\\smart2\\app\\src\\main\\res\\layout\\activity_gps__test.xml"
+    }
+]
